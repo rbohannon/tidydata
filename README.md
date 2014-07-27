@@ -64,7 +64,7 @@ When the archive data is ready, the script imports data from several different f
 
 **Description**
 
-codebook.txt contains a description of the data variables contained in tidyData.txt. It lists each variable, its datatype, and a short description of what the variable represents. Where applicable, the set of acceptable values is also included.
+<a href="https://github.com/rbohannon/tidydata/blob/master/codebook.txt">codebook.txt</a> contains a description of the data variables contained in tidyData.txt. It lists each variable, its datatype, and a short description of what the variable represents. Where applicable, the set of acceptable values is also included.
 
 ##Raw Data
 
